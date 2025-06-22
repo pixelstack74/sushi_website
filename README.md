@@ -1,14 +1,19 @@
 🤖 Introduction
+
 Develop a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations.
 
 
 ⚙️ Tech Stack
+
 HTML 5
+
 CSS 3
+
 Vite
 
 
 🔋 Features
+
 👉 CSS Variables: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project
 
 👉 Importing CSS Files: Import CSS files into others, promoting modularity and organization in styling.
@@ -28,7 +33,11 @@ Vite
 all these while creating the sushi website with,
 
 Navigation Bar
+
 Creative Hero Section
+
 About Us Section
+
 Popular Food, Trending Sushi, and Drinks Sections
+
 Newsletter Signup and Footer
